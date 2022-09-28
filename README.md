@@ -1,5 +1,5 @@
 # JSS002-Javascript Demo Smart Contract POW Blockchain Study
-This is a simple Javascript demo smart contract blockchain that explains the concept of a smart contract platform.
+This is a simple Javascript demo smart contract proof of work blockchain that explains the concept of a smart contract platform.
 
 ### Ethereum Whitepaper
 https://github.com/ethereum/wiki/wiki/White-Paper
